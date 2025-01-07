@@ -1,0 +1,20 @@
+**********************************************
+Ticket ID:  GM2.STH.MDL0
+Name:  156165
+
+Nationality:  165156
+Match:  Chelsea vs LiverPool  , SemiFinal , 4th February 2020
+Stadium:  Santiago Bernabeu
+Gallery Side:  South
+Gallery Row:  Middle
+**********************************************
+**********************************************
+Ticket ID:  GM2.STH.MDL1
+Name:  156165
+
+Nationality:  165156
+Match:  Chelsea vs LiverPool  , SemiFinal , 4th February 2020
+Stadium:  Santiago Bernabeu
+Gallery Side:  South
+Gallery Row:  Middle
+**********************************************
